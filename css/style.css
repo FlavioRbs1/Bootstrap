@@ -1,0 +1,26 @@
+.body{
+    font-family:sans-serif;
+    font-size: 20;
+ 
+}
+
+.navbar{
+    background-color: #000000;
+    
+}   
+  
+.inicial, .bacon, .guest, .spider{
+    background-color: rgb(41, 33, 33);
+    color: white;
+    font-style: italic;
+  
+}
+.nav-bacon, .nav-guest, .nav-spider{
+    padding-left: 15px;
+}
+.voltar{
+    font-size: 6;
+    color: blue;
+    
+}
+
